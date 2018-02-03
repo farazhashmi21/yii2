@@ -1,3 +1,4 @@
+[![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
 <p align="center">
     <a href="http://www.yiiframework.com/" target="_blank">
         <img src="http://static.yiiframework.com/files/logo/yii.png" width="400" alt="Yii Framework" />
